@@ -1,7 +1,7 @@
 {
-  "full_name": "Buckaroo Cheung",
-  "email": "cheung.buckaroo@gmail.com",
-  "github_username": "buckarooch",
+  "full_name": "JuneQ Cheung",
+  "email": "a1624jz@aiit.ac.jp"
+  "github_username": "juneqch",
   "project_name": "Python Boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
@@ -9,6 +9,7 @@
   "version": "0.1.0",
   "use_pytest": "y",
   "use_pypi_deployment_with_travis": "y",
+  "add_pyup_badge": "n",
   "command_line_interface": ["Click", "No command-line interface"],
   "create_author_file": "y",
   "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
